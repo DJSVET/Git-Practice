@@ -6,3 +6,5 @@ A practical project for learning Git and GitHub.
 - Commits and file tracking
 - Branching and merging
 - Manual merge conflict resolution
+
+This change was made directly on GitHub.
