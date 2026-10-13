@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This line was added in the second commit.
 This line was added in the main branch.
+=======
+This line was changed in the feature branch.
+>>>>>>> feature-branch
